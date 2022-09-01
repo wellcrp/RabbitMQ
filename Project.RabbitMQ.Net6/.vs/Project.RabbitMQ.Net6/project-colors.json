@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0643c86-bfd6-486b-9753-611000f295c1": {
+      "ProjectGuid": "d0643c86-bfd6-486b-9753-611000f295c1",
+      "DisplayName": "Project.RabbitMQ.API",
+      "ColorIndex": 0
+    },
+    "97294ea4-f287-463e-89f2-da7db2e49a3e": {
+      "ProjectGuid": "97294ea4-f287-463e-89f2-da7db2e49a3e",
+      "DisplayName": "Project.RabbitMQ.Models",
+      "ColorIndex": 1
+    },
+    "13c3ee5e-a3dd-415b-a4b6-ef827ec15351": {
+      "ProjectGuid": "13c3ee5e-a3dd-415b-a4b6-ef827ec15351",
+      "DisplayName": "Project.RabbitMQ.Infrastructure",
+      "ColorIndex": 2
+    },
+    "b90300b8-d54e-4367-9bcf-8aef7ab7074b": {
+      "ProjectGuid": "b90300b8-d54e-4367-9bcf-8aef7ab7074b",
+      "DisplayName": "Project.RabbitMQ.Services",
+      "ColorIndex": 3
+    },
+    "2aea422e-15aa-4fea-8946-363a246e9dd0": {
+      "ProjectGuid": "2aea422e-15aa-4fea-8946-363a246e9dd0",
+      "DisplayName": "RabbitMQ.NET6.ConsoleApplication",
+      "ColorIndex": 4
+    },
+    "e2b44b60-ed48-48d1-9b43-2f556a266bd1": {
+      "ProjectGuid": "e2b44b60-ed48-48d1-9b43-2f556a266bd1",
+      "DisplayName": "RabbitMQ.NET6.Consumer",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
